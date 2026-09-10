@@ -12,6 +12,18 @@ Turn images into text better than caca/aalib
 x install hiptext
 ```
 
+## Code insight
+
+Total: **46,558** lines of code across **166** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Cpp | 23,300 | 7,471 | 4,812 | 86 |
+| CHeader | 15,111 | 5,914 | 2,538 | 44 |
+| Python | 4,996 | 1,064 | 1,129 | 23 |
+| VisualStudioProject | 1,132 | 0 | 0 | 8 |
+| M4 | 999 | 425 | 219 | 5 |
+
 ## Source
 
 - **Upstream**: <https://github.com/jart/hiptext>
@@ -22,7 +34,6 @@ x install hiptext
 - **Latest**: `0.2` (2016-06-23)
 - **Last commit**: 2022-07-09
 - **Assets in release**: 1
-- **Published**: 2016-06-23T11:37:05Z
 
 ## Popularity
 
@@ -37,28 +48,25 @@ x install hiptext
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 1 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 2 | 0 |
 
-## Code size
+## Release assets
 
-Total: **46,558** lines of code across **166** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Cpp | 23,300 | 7,471 | 4,812 | 86 |
-| CHeader | 15,111 | 5,914 | 2,538 | 44 |
-| Python | 4,996 | 1,064 | 1,129 | 23 |
-| VisualStudioProject | 1,132 | 0 | 0 | 8 |
-| M4 | 999 | 425 | 219 | 5 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [hiptext-0.2.tar.gz](https://github.com/jart/hiptext/releases/download/0.2/hiptext-0.2.tar.gz) | 1.7 MiB | `native/unknown` |
 
 ## Improve this data
 
 Install metadata for hiptext lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `hiptext` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/hiptext.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/hiptext.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:51:25Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:39:07Z._

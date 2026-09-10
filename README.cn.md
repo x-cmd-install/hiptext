@@ -4,13 +4,25 @@
 
 Turn images into text better than caca/aalib
 
-![hiptext](https://repo.x-cmd.io/hiptext.svg)
+![hiptext](https://repo.x-cmd.io/hiptext.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install hiptext
 ```
+
+## 代码规模
+
+合计: **46,558** 行代码（覆盖前 5 种语言、共 **166** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Cpp | 23,300 | 7,471 | 4,812 | 86 |
+| CHeader | 15,111 | 5,914 | 2,538 | 44 |
+| Python | 4,996 | 1,064 | 1,129 | 23 |
+| VisualStudioProject | 1,132 | 0 | 0 | 8 |
+| M4 | 999 | 425 | 219 | 5 |
 
 ## 源代码
 
@@ -22,7 +34,6 @@ x install hiptext
 - **最新版本**: `0.2` (2016-06-23)
 - **最近提交**: 2022-07-09
 - **Release 含资产**: 1 个
-- **发布时间**: 2016-06-23T11:37:05Z
 
 ## 流行度
 
@@ -37,20 +48,17 @@ x install hiptext
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 1 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 2 | 0 |
 
-## 代码规模
+## Release 资产
 
-合计: **46,558** 行代码（覆盖前 5 种语言、共 **166** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Cpp | 23,300 | 7,471 | 4,812 | 86 |
-| CHeader | 15,111 | 5,914 | 2,538 | 44 |
-| Python | 4,996 | 1,064 | 1,129 | 23 |
-| VisualStudioProject | 1,132 | 0 | 0 | 8 |
-| M4 | 999 | 425 | 219 | 5 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [hiptext-0.2.tar.gz](https://github.com/jart/hiptext/releases/download/0.2/hiptext-0.2.tar.gz) | 1.7 MiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -61,4 +69,4 @@ hiptext 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:51:26Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:39:07Z._
